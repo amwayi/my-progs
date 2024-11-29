@@ -1,4 +1,4 @@
 <?
-yes
+yes checkdate
 #enter code here
 ?>
